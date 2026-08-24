@@ -1,0 +1,68 @@
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# =========================
+# Environment / Secrets
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# Uploaded files / User data
+# =========================
+
+backend/uploads/
+uploads/
+
+# =========================
+# Databases / Local data
+# =========================
+
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Node
+# =========================
+
+node_modules/
+frontend/node_modules/
+
+# =========================
+# Build files
+# =========================
+
+dist/
+build/
+frontend/dist/
+
+# =========================
+# Logs
+# =========================
+
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# =========================
+# IDE / OS
+# =========================
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
