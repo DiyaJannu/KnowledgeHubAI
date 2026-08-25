@@ -286,40 +286,43 @@ http://localhost:5173
 For security, actual credentials should never be committed to the repository.
 
 ---
+
 ## 📸 Screenshots
 
+### 🔐 Authentication
+
 <p align="center">
-  <img src="image.png" width="420" height="300">
-  <img src="image-1.png" width="420" height="300">
+  <img src="screenshots/login.png" width="420" height="300">
+  <img src="screenshots/register.png" width="420" height="300">
 </p>
 
 ### 🏠 Dashboard
 
 <p align="center">
-  <img src="image-2.png" width="850">
+  <img src="screenshots/dashboard1.png" width="850">
 </p>
+
 <p align="center">
-  <img src="image-3.png" width="850">
+  <img src="screenshots/dashboard2.png" width="850">
 </p>
 
 ### 📄 Document Management
 
 <p align="center">
-  <img src="image-4.png" width="850">
+  <img src="screenshots/documents.png" width="850">
 </p>
 
 ### 🤖 AI Chat
 
 <p align="center">
-  <img src="image-5.png" width="850">
+  <img src="screenshots/ai-chat.png" width="850">
 </p>
 
 ### ⚙️ Settings
 
 <p align="center">
-  <img src="image-6.png" width="850">
+  <img src="screenshots/settings.png" width="850">
 </p>
-
 ## 🚀 Future Improvements
 
 - ⚡ Improve AI response time
