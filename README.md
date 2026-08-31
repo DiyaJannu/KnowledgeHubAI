@@ -91,7 +91,7 @@ User Question ──────► Semantic Search
 
 - Python
 - FastAPI
-- SQLAlchemy
+- PostgreSQL
 - Pydantic
 - JWT Authentication
 
